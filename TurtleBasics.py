@@ -48,9 +48,8 @@ down()
 circle(50)
 '''
 
-#7 Drawing circle at different locations
-speed(0)
 
+speed(0) # chainging speed to fastest
 for i in range(10):
     if(i%2==0):
 
@@ -60,21 +59,9 @@ for i in range(10):
     else:
         circle(3*i+50)
 
-
-
-
-
-
-
-
-
-
-
-
 screensize(canvwidth=1000, canvheight=2000, bg=None)
 # reset() # resets everything
 # pensize # to increase the size of outer line
 # home() # sets the turtle to the initial position
-
 done() #holding screen
 
