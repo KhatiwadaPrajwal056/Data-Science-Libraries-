@@ -46,7 +46,7 @@ end_fill() '''
 goto(100,100)  # goes to that position without drawing the line
 down()
 circle(50)
-'''
+
 
 
 speed(0) # chainging speed to fastest
@@ -63,5 +63,6 @@ screensize(canvwidth=1000, canvheight=2000, bg=None)
 # reset() # resets everything
 # pensize # to increase the size of outer line
 # home() # sets the turtle to the initial position
-done() #holding screen
+done() #holding screen '''
+
 
