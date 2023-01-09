@@ -6,4 +6,4 @@ print(np.empty(1))
 # a=np.empty(2)
 # print(a)
 # print(np.linspace(0,10,5))  #create an array with values that are spaced linearly in a specified interval
-# print(np.linspace(0,10,5,dtype=np.int64))   #Specifying the data type
+# print( =
